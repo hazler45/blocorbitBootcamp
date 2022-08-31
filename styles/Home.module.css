@@ -1,0 +1,11 @@
+.nava ul{
+  display:flex;
+  justify-content: center;
+}
+.nava li{
+  list-style: none;
+ margin-right: 20px;
+}
+.container h1 {
+  text-align: center;
+}
